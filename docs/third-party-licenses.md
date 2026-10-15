@@ -7,8 +7,3 @@ This project uses the following third-party libraries. Refer to their official r
 - [MUnit](https://github.com/scalameta/munit) — Apache License 2.0
 - [SQLite JDBC](https://github.com/xerial/sqlite-jdbc) — Apache License 2.0 and BSD 2-Clause License
 - [SLF4J](https://github.com/qos-ch/slf4j/blob/master/LICENSE.txt) — MIT License
-
-## Project license
-
-No open-source license has been selected for this coursework portfolio repository. Confirm the university's policy before adding a license or granting reuse permission.
-
