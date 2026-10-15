@@ -1,0 +1,13 @@
+.bsp/
+.idea/
+.metals/
+.vscode/
+target/
+project/target/
+project/project/
+.sbt-global/
+.sbt-boot/
+.coursier-cache/
+data/*.db
+.DS_Store
+
